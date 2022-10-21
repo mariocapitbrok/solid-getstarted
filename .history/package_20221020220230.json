@@ -4,18 +4,13 @@
   "description": "Getting Started with NPM solid-js library and the Solid JSX compiler Babel plugin.",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html --open",
-    "build": "parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "babel-preset-solid": "^1.6.0",
     "solid-js": "^1.6.0"
   },
-  "devDependencies": {
-    "@babel/core": "7.12.0",
-    "parcel-bundler": "^1.6.1"
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mariocapitbrok/solid-getstarted.git"
