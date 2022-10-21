@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "babel-preset-solid": "^1.6.0",
+    "solid-js": "^1.6.0"
+  }
+}
